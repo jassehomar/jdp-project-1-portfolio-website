@@ -1,0 +1,54 @@
+.about-image-wrapper {
+  width: 80%;
+  margin: auto;
+}
+.about-image {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.about-content-wrapper {
+  padding: 1rem 1.2rem;
+  width: 100%;
+}
+
+.about-content-wrapper h3 {
+  color: var(--primary-color);;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.about-content-wrapper h4 {
+  color: #1A1C20;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-top: 1rem;
+  font-weight: 700
+}
+
+.about-content-wrapper .about {
+  margin-top: 1.5rem;
+}
+
+.about p {
+  color: #1a1c20f5;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.about-button-wrapper {
+  margin-top: 3rem;
+}
+
+.about-content-wrapper button {
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 3px;
+  color: #fefefe;
+  display: inline-block;
+  padding: 1.25rem 2rem;
+  text-transform: uppercase;
+  font-weight: 900;
+}

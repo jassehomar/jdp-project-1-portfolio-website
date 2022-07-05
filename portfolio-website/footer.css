@@ -1,0 +1,21 @@
+.footer {
+  background-color: var(--dark-text-color);
+  padding: 8rem 3rem 4rem;
+  text-align: center;
+}
+
+.footer p {
+  color: #EFEFEF;
+  line-height: 2;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.footer p:last-of-type {
+  margin-top: 10px;
+}
+
+.footer p span {
+  font-weight: 700;
+  color: var(--primary-color);
+}
